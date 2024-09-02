@@ -1,0 +1,366 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+`
+}
+
+
+
+
+@font-face {
+    font-family: 'inter';
+    src: url(../ziba/font/inter);
+    font-style: normal;
+    font-weight: 100;
+}
+
+
+.main-12 {
+    padding: 42px 0 100px 100px;
+    background-color: #f3fcf7;
+    height: 663px;
+    
+
+}
+
+
+
+.flow123 {
+    display: flex;
+    justify-content: space-between;
+    width: 1177px;
+
+}
+
+.lists12 {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    text-align: center;
+    list-style: none;
+}
+
+.green123 {
+    color: #06c167;
+    
+}
+
+.below1 {
+    border: ;
+    width: 200px;
+    height: 68px;
+    margin-top: 30px;
+    background-color: #06c167;
+    padding: 25px 0 20px 40px;
+
+}
+
+.below2 {
+    color: #ffffff;
+}
+.flexy {
+    display: flex;
+}
+
+.image2 {
+    margin: 70px 50px 100px 100px;
+    width: 468px;
+    height: 634px;
+}
+
+
+h1 {
+    font-family: inter;
+    font-weight: 600;
+    font-size: 75px;
+    width: 533px;
+    height: 182px;
+    margin-top: 120px ;
+    margin-bottom: 20px;
+}
+
+.pword {
+    font: inter;
+    font-weight: 400px;
+    font-size: 16px;
+    width: 533px;
+    height: 46px;
+    margin-top: 1px;
+    color: #1D1D1F;
+    /* position: relative; */
+    /* bottom: 450px; */
+}
+
+/* .button {
+    border: 1px solid;
+    width: 200px;
+    height: 68px;
+    background-color: #06c167;
+ position: relative;    color: #ffffff;
+    padding: 20px 30px;
+   
+    bottom: 450px;
+    margin-top: 50px;
+    font-size: 16px;
+    font-weight: 400px;
+    font-family: inter;
+
+} */
+
+.odd12 {
+    display: flex;
+    align-items: center;
+}
+
+.img2-3 {
+    width: 22.38px;
+    height: 11px;
+    margin-left: 20px;
+
+}
+
+.ultra {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 100px;
+    width: 549px;
+    height: 35.12px;
+    padding: 5px;
+}
+
+.icons234 {
+    display: flex;
+    justify-content: space-between;
+    height: 185px;
+    width: 1170px;
+    margin: 70px 100px;
+    border-top: 3px solid #eeebeb;
+    border-bottom: 3px solid #eeebeb;
+    padding: 50px;
+    margin-top: 200px;
+}
+
+
+
+.icons234 > div {
+    display: flex;
+    height: 70px;
+    /* width: 240px; */
+    align-items: center;
+    font-family: inter;
+    font-size: 10px;
+    font-weight: 400px;
+    word-wrap: normal;
+    /* text-align: center; */
+    /* border: 1px solid; */
+    /* padding: 5px; */
+    /* padding-top: 10px;
+    padding-bottom: 10px; */
+    /* text-align: center; */
+}
+
+.icons123 {
+    width:235px;
+
+}
+
+.icons124 {
+    width: 260px;
+}
+
+.icons125 {
+    width: 240px;
+
+}
+
+icons236 {
+    width: 240px;
+}
+
+.At {
+    height: 65px;
+    border: none;
+}
+
+div >  .h3 {
+    font-size: 18px;
+    color:#1D1D1F;
+    ;
+}
+
+div .p {
+    font-size: 13px;
+    font-weight: 500px;
+    color: #1D1D1F;
+}
+
+.shadow3-2 {
+    margin: 20px;
+}
+
+.shadow3-3 {
+    margin: 20px;
+    /* padding: 10px; */
+    /* font-size: 10px; */
+}
+
+.fruits {
+    display: grid;
+    grid-template-columns: 40vw 50vw;
+    grid-template-rows: 50%;
+    column-gap: 100px;
+    padding:42px 0 100px 100px;
+}
+
+.letters {
+    font-family: inter;
+    font-size: 60px;
+    font-weight: 500px;
+    /* border: 1px solid; */
+    width: 537px;
+    height: 200px;
+
+}
+
+.gridy {
+    margin-top: 70px;
+}
+
+div > li {
+    list-style: none;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: inter;
+    padding-left: 20px;
+    
+}
+
+
+
+.check {
+    width: 26px;
+    height: 19.39px;
+    align-items: center;
+}
+
+.size123 {
+    width: 400px;
+}
+
+.gridy12 {
+    display: grid;
+    grid-template-columns: 40vw 50vw;
+    grid-template-rows: 50%;
+    column-gap: 100px;
+    padding:42px 0 100px 100px;
+}
+
+.classy {
+    margin-top: 80px;
+}
+
+.h3-3 {
+    font-size: 60px;
+    font-family: inter;
+    font-weight: 500;
+}
+
+.classy > p {
+    font-size: 15px;
+    font-family: inter;
+    font-weight: 500;
+
+
+}
+
+.divine {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+
+}
+
+div > .nub {
+    color: #06c167;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: inter;
+}
+
+.get {
+    border: ;
+    width: 233px;
+    height: 68px;
+    margin-top: 30px;
+    background-color: #06c167;
+    padding: 25px 0 20px 40px;
+    display: flex;
+    align-items: center;
+}
+
+.get1 {
+    font-size: 14px;
+    font-family: inter;
+    font-weight: 400;
+    width: 140px;
+    height: 19px;
+    color: #ffffff;
+}
+
+.icon-m {
+    width: 22px;
+    height: 11px;
+
+}
+
+.last12 {
+    width: 1170px;
+    height: 766px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 100px;
+
+}
+
+.last12 > div {
+    margin: 50px;
+}
+
+.last2-3 > h3 {
+    font-family: inter;
+    font-weight: 500;
+    font-size: 60px;
+}
+
+.last12 > p {
+    font-family: inter;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.gridd {
+    display: grid;
+    grid-template-columns: repeat(4, 2fr);
+    grid-template-rows: repeat(2, 2fr);
+    row-gap: 0;
+    border: 3px solid #06c167;
+    column-gap: 0px;
+    width: 165vh;
+    text-align: center;
+    
+}
+
+.griddy {
+    padding: 0 5;
+    border: 1px solid;
+}
+
+.griddy > h3 {
+    font-family: inter;
+    font-size: 35px;
+    font-weight: 500;
+
+}
+
